@@ -1,0 +1,5 @@
+let a="king"
+
+let b="kohli"
+
+console.log("a"+"b")
